@@ -1,45 +1,27 @@
-import { useState, useEffect } from 'react'
-import { today, currentMeal } from './utils/date'
+import React, { useState, useEffect } from 'react';
+import MenuView from './components/MenuView';
+import AdminView from './components/AdminView';
 
-export default function App() {
-  const [lang, setLang] = useState(localStorage.lang || 'th')
-  const [date, setDate] = useState(today())
-  const [meal, setMeal] = useState(currentMeal())
-  const [data, setData] = useState({})
+function App() {
+  const [currentPage, setCurrentPage] = useState('menu');
 
   useEffect(() => {
-    fetch(`./data/2026-01.json`).then(r=>r.json()).then(setData)
-  }, [])
+    const syncRoute = () =>
+      setCurrentPage(window.location.pathname.includes('admin') ? 'admin' : 'menu');
 
-  useEffect(() => {
-    localStorage.lang = lang
-  }, [lang])
+    syncRoute();
+    window.addEventListener('popstate', syncRoute);
+    return () => window.removeEventListener('popstate', syncRoute);
+  }, []);
 
-  const items = data[date]?.[meal] || []
+  const navigateTo = (page) => {
+    window.history.pushState({}, '', page === 'admin' ? '/admin' : '/');
+    setCurrentPage(page);
+  };
 
-  return (
-    <div className="app">
-      <header className="hero">
-        <h1>The Diva’s</h1>
-        <div className="lang">
-          <button onClick={()=>setLang('th')}>TH</button>
-          <button onClick={()=>setLang('en')}>EN</button>
-        </div>
-      </header>
-
-      <h2 className="date">{date}</h2>
-
-      <div className="meals">
-        {['breakfast','lunch','dinner','supper'].map(m=>(
-          <button key={m} className={meal===m?'active':''} onClick={()=>setMeal(m)}>{m}</button>
-        ))}
-      </div>
-
-      <ul className="menu">
-        {items.map((i,idx)=>(
-          <li key={idx}>{i[lang]}</li>
-        ))}
-      </ul>
-    </div>
-  )
+  return currentPage === 'menu'
+    ? <MenuView onNavigateToAdmin={() => navigateTo('admin')} />
+    : <AdminView onNavigateToMenu={() => navigateTo('menu')} />;
 }
+
+export default App;
