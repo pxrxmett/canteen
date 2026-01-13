@@ -1,304 +1,522 @@
 {
   "2026-01-01": {
     "breakfast": [
-      {
-        "th": "เส้นหมี่น้ำใสไก่ฉีก",
-        "en": "Clear chicken noodle soup"
-      }
+      { "th": "เส้นหมี่น้ำใสไก่ฉีก", "en": "Clear chicken noodle soup" }
     ],
     "lunch": [
-      {
-        "th": "แกงมัสมั่นไก่",
-        "en": "Massaman chicken"
-      },
-      {
-        "th": "ปลาทอดซอสมะม่วง",
-        "en": "Fried fish with raw mango sauce"
-      },
-      {
-        "th": "ผัดหน่อไม้ใส่ไข่",
-        "en": "Stir fried bamboo shoot with egg"
-      }
+      { "th": "แกงมัสมั่นไก่", "en": "Massaman Chicken" },
+      { "th": "ปลาทอดซอสมะม่วงหิมพานต์", "en": "Fried fish with raw mango sauce" },
+      { "th": "ผัดหน่อไม้ใส่ไข่", "en": "Stir-fried bamboo shoot with egg" }
     ],
     "dinner": [
-      {
-        "th": "ซุปไก่",
-        "en": "Chicken soup"
-      },
-      {
-        "th": "ผัดเผ็ดซี่โครงหมู",
-        "en": "Spicy pork ribs stir fry"
-      }
+      { "th": "ซุปไก่", "en": "Chicken soup" },
+      { "th": "ผัดเผ็ดซี่โครงหมู", "en": "Stir fried pork ribs" }
     ],
     "supper": [
-      {
-        "th": "หมูบาร์บีคิว",
-        "en": "Barbecue pork"
-      }
+      { "th": "หมูบาร์บีคิว", "en": "Barbeque pork" }
     ]
   },
   "2026-01-02": {
     "breakfast": [
-      {
-        "th": "ข้าวต้มกุ๊ย",
-        "en": "Boiled rice"
-      },
-      {
-        "th": "ปลาแดดเดียวทอด",
-        "en": "Fried sun-dried fish"
-      },
-      {
-        "th": "ยำไข่เค็ม",
-        "en": "Spicy salted egg salad"
-      }
+      { "th": "ข้าวต้มปลาเค็ม ผักสด ผักต้มเปล่า", "en": "Boiled rice, Fried salted fish, Spicy salted crab salad" }
     ],
     "lunch": [
-      {
-        "th": "แกงส้มผักรวม",
-        "en": "Sour soup with vegetables"
-      },
-      {
-        "th": "ไข่เจียว",
-        "en": "Omelette"
-      },
-      {
-        "th": "ไก่ผัดเปรี้ยวหวาน",
-        "en": "Sweet and sour chicken stir fry"
-      }
+      { "th": "ซุปผัก", "en": "Bean soup with vegetables" },
+      { "th": "ไก่ทอดราดซอส", "en": "Fried chicken with sweet and sour sauce" }
     ],
     "dinner": [
-      {
-        "th": "ข้าวหมูแดง",
-        "en": "Barbecue pork with rice"
-      },
-      {
-        "th": "หมูกรอบต้มฟัก",
-        "en": "Crispy pork with winter melon soup"
-      }
+      { "th": "ผักสดต้มผัก ซี่โครงต้มเผ็ด", "en": "Pickled lettuce soup with pork ribs" },
+      { "th": "ผัดเผ็ดปลาดุก", "en": "Stir fry spicy catfish" }
     ],
     "supper": [
-      {
-        "th": "แกงจืด",
-        "en": "Clear soup"
-      },
-      {
-        "th": "ปลาทอดราดพริก",
-        "en": "Fried fish with chili sauce"
-      }
+      { "th": "ซุปใส", "en": "Clear soup" },
+      { "th": "ปลาทอด ราดพริก", "en": "Deep – fried fish and chili sauce" }
     ]
   },
   "2026-01-03": {
     "breakfast": [
-      {
-        "th": "สปาเก็ตตี้ซอสหมู",
-        "en": "Spaghetti with pork sauce"
-      }
+      { "th": "สปาเก็ตตี้หมูซอส", "en": "Spaghetti pork sauce" }
     ],
     "lunch": [
-      {
-        "th": "แกงเขียวหวานไก่ใส่ฟัก",
-        "en": "Green curry with chicken and winter melon"
-      },
-      {
-        "th": "หมูแดดเดียวทอด",
-        "en": "Fried sun-dried pork"
-      },
-      {
-        "th": "แตงกวาผัดไข่",
-        "en": "Stir fried cucumber with egg"
-      }
+      { "th": "หมูบาร์บีคิว", "en": "Barbeque pork" },
+      { "th": "ผักทอดกรอบหาดใหญ่", "en": "Crispy pork and wintermelon soup" }
     ],
     "dinner": [
-      {
-        "th": "แกงพะแนงหมู",
-        "en": "Panang pork curry"
-      },
-      {
-        "th": "ยำปลากระป๋อง",
-        "en": "Spicy canned fish salad"
-      }
+      { "th": "ต้มจืดหมู", "en": "Panaing pork" },
+      { "th": "ผัดเผ็ดปลาทู", "en": "Spicy canned fish salad" }
     ],
     "supper": [
-      {
-        "th": "ต้มเปรี้ยว",
-        "en": "Sour soup"
-      },
-      {
-        "th": "ไข่ดาวน้ำมะขาม",
-        "en": "Fried egg in tamarind sauce"
-      },
-      {
-        "th": "ข้าวผัดไข่",
-        "en": "Egg fried rice"
-      }
+      { "th": "ซุปฟัก", "en": "Sour soup" },
+      { "th": "ปลาทอด ข้าวผัดไข่", "en": "Fried fish in tamarind sauce, Egg fried rice" }
     ]
   },
   "2026-01-04": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวผัด ซี่โครงไก่", "en": "Stir Fry Drumstick Chicken and rice" }
+    ],
+    "lunch": [
+      { "th": "ซุปใสผักกับเห็ด และแกงเขียวหวานไก่", "en": "Green curry with chicken" },
+      { "th": "ปลาทอดราดซอสมะขาม", "en": "Fried pork with tamarind" },
+      { "th": "ผัดผักชีฝรั่งใส่หมู", "en": "Stir fry vegetable celery" }
+    ],
+    "dinner": [
+      { "th": "ต้มจืดเต้าหู้ฮ่องเต้", "en": "Stuffed Bitter Gourd Broth" },
+      { "th": "ไก่ทอดราดซอสปลา", "en": "chicken in fish sauce" }
+    ],
+    "supper": [
+      { "th": "ต้มยำไก่ ซุปเต้าหู้", "en": "Thai omelette in clear soup" },
+      { "th": "ปลาทอดพริกเปรี้ยวหวาน", "en": "Stir fried pork with fried tofu" }
+    ]
   },
   "2026-01-05": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "โจ๊กหมู ไข่ต้ม", "en": "Congee pork, Boiled eggs" }
+    ],
+    "lunch": [
+      { "th": "ซุปหน่อไม้ ต้มยำไก่ดำมันต้มแกง", "en": "Bamboo shoot and Yanang Soup" },
+      { "th": "หมูผัดกระเทียมพริกไทย", "en": "Stir fried pork with garlic and peanuts" },
+      { "th": "ผัดผักชีฝรั่งใส่หมู", "en": "Stir fried mushroom" }
+    ],
+    "dinner": [
+      { "th": "ต้มยำกุ้ง ปลาทอดราดพริก", "en": "Bamboo Shoot and Yanang Soup" },
+      { "th": "ปลาทอดราดพริก", "en": "Stir fried pork ribs" }
+    ],
+    "supper": [
+      { "th": "ต้มยำปลาดุก ผัดผักชีฝรั่ง", "en": "Tom Yum hot pork" },
+      { "th": "หมูผัด พริกไทยดำ(ใหม่)", "en": "Fried fish" }
+    ]
   },
   "2026-01-06": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวผัดไส้กรอกจีน", "en": "Chinese Sausage Fried Rice" }
+    ],
+    "lunch": [
+      { "th": "เส้นบะหมี่เส้นน้ำ", "en": "Fried noodle with pork in gravy sauce" }
+    ],
+    "dinner": [
+      { "th": "เห็ดทอมยำ ปลาทอดซอสจินจ้า", "en": "Tom Yum mushrofile" },
+      { "th": "ไก่ทอดราดพริก", "en": "stir fried chicken with gingers" }
+    ],
+    "supper": [
+      { "th": "ซุปใส ปลาทอดราดพริกไทยดำ", "en": "Clear soup" },
+      { "th": "ปลาทอดราดพริกไทยดำ", "en": "Stir fried pork with black peppers" }
+    ]
   },
   "2026-01-07": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ซี่โครงหมู ข้าวเกรียบ", "en": "Rice, pork soup and rice" }
+    ],
+    "lunch": [
+      { "th": "ซุปใส ไก่ผัดซอสเทอริยากิ กระหล่ำปลีผัดเบคอน", "en": "Clear soup with tofu Steamed Thai Seabass with Chinese Celery" },
+      { "th": "ผัดกระหล่ำปลีใส่เบคอน", "en": "Stir fried cabbage with fish sauce" }
+    ],
+    "dinner": [
+      { "th": "ซุปผักกับเต้าหู้ ต้มยำไก่ดำ ปลาทอดซอสเทอริยากิ", "en": "Clear Soup with Vegetables" },
+      { "th": "ต้มยำไก่ดำ ปลาทอดซอสเทอริยากิ", "en": "Tom yum black chicken Spicy Fried chicken with teriyaki" }
+    ],
+    "supper": [
+      { "th": "ไก่ผัดน้ำมันงา ไข่ฟริทตาต้มยำ", "en": "chicken in coconut milk frot" },
+      { "th": "ต้มยำ", "en": "Tom Yum egg fried rice" }
+    ]
   },
   "2026-01-08": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "มักกะโรนี", "en": "Macaroni" }
+    ],
+    "lunch": [
+      { "th": "แกงจืดผักกะเกษกับเต้าหู้ หมูผัดซอสเปรี้ยวหวาน", "en": "Crispy Seabassfish in Hot & Sour Soup" },
+      { "th": "ผัดผักเกษกับฟักทอง", "en": "Braised Pork with fish sauce" },
+      { "th": "หมูบาร์บีคิว", "en": "Stir fried mushroom" }
+    ],
+    "dinner": [
+      { "th": "ไก่ผัดน้ำมันงา หมูผัดพริกแกงเผ็ด", "en": "Chicken in coconut with basil leaf" },
+      { "th": "ผัดพริกแกงเหลือง", "en": "Stir-Fried Pork with Yellow Curry Paste" }
+    ],
+    "supper": [
+      { "th": "หมูผัดน้ำมันหอย กะเพราหมูสับ(ใหม่)", "en": "Braised Fish Man in Red Gravy" },
+      { "th": "มะระยัดไส้ ยำผักสดใต้", "en": "stir fried lettuce" }
+    ]
   },
   "2026-01-09": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวต้มปลา", "en": "Porridge pork" }
+    ],
+    "lunch": [
+      { "th": "แกงฮังเลย์ หมูผัดซอสมะเขือเทศ", "en": "Bae Vermicelli with Northern Thai Curry Sauce" },
+      { "th": "ข้าวเส้นต้มยำ", "en": "Thai Rice Noodles Mixed Pork with Red Curry" }
+    ],
+    "dinner": [
+      { "th": "ซุปตับไก่ ปลาทอดน้ำปลา", "en": "Thai Fish Organs Sour Soup" },
+      { "th": "ไก่ทอดกระเทียมพริกไทย", "en": "Fried chicken" }
+    ],
+    "supper": [
+      { "th": "ซุปใส ไก่ทอดกระเทียม", "en": "Sour soup" },
+      { "th": "หมูผัดเเกง", "en": "Fried chicken wings" }
+    ]
   },
   "2026-01-10": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "สปาเก็ตตี้ซอสพริก", "en": "Spicy spaghetti with chilly" }
+    ],
+    "lunch": [
+      { "th": "ซุปเต้าหู้เเดง ผัดพริกแกงเผ็ดกับไก่", "en": "Hot & sour soup with Red Tofu" },
+      { "th": "ผัดพริกแกงกับผักกะเกษกับไก่", "en": "Thai Curry with grilled duck" },
+      { "th": "ผักกะเกษผัดผักกะเกษใส่ไก่", "en": "Omelete baby cabbage with chicken" }
+    ],
+    "dinner": [
+      { "th": "ซุปหน่อไม้ เป็ดย่างพริกแกงใต้", "en": "Soup curry with grilled duck" },
+      { "th": "ยำขนมจีนใต้ คลุกผักใต้", "en": "Omelete" }
+    ],
+    "supper": [
+      { "th": "ต้มยำเป็ด หมูผัดเเกง", "en": "Tom Yum duck" },
+      { "th": "พริกแกงหมู", "en": "Stir fried pork with fresh chilli" }
+    ]
   },
   "2026-01-11": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ก๋วยเตี๋ยวน้ำไก่", "en": "Stir fried noodle with chicken" }
+    ],
+    "lunch": [
+      { "th": "ต้มยำไส้ไก่ ผักกะเกษผัดน้ำมันหอย", "en": "Chinese Cabbage and Oyster Sauce" },
+      { "th": "หมูทอดซอสเทอริยากิ", "en": "Mixed Pork belly with Fried vermicelli" }
+    ],
+    "dinner": [
+      { "th": "ซุปไส้ไก่ ต้มยำรวม", "en": "Hot and Sour Beef Tripe Soup" },
+      { "th": "ปลาทอดราดซอสกระเทียม", "en": "Fried fish with garlic sauce" }
+    ],
+    "supper": [
+      { "th": "ซุปใส ปลาทอดผักโหระพา", "en": "Clear soup" },
+      { "th": "ข้าวหมก", "en": "Stir fried pork with bamboo shoot" }
+    ]
   },
   "2026-01-12": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวเหนียว ไก่ทอด", "en": "Sticky rice, Fried pork" }
+    ],
+    "lunch": [
+      { "th": "แกงเขียวหวานไก่ หัวไชเท้า ผัดแครอท", "en": "White Radish with Minced Pork Soup" },
+      { "th": "ผัดผักกาดกับหมู", "en": "White Radish with Minced Pork Soup" }
+    ],
+    "dinner": [
+      { "th": "ต้มยำปลาอินทรีย์ หมูอบกะทะใส่มะเขือเทศ", "en": "Tom yum fish" },
+      { "th": "หมูอบกะทะใส่มะเขือเทศ", "en": "Steamed pork ribs with papaya" }
+    ],
+    "supper": [
+      { "th": "หมูเเดงกาด ข้าวเหนียว เเกงเผ็ด", "en": "Leo's pork stew" }
+    ]
   },
   "2026-01-13": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวหมูทอดใต้ หัวไชเท้า ข้าวเหนียว", "en": "American breakfast" }
+    ],
+    "lunch": [
+      { "th": "บะหมี่ น้ำเเดง หมูบาร์บีคิว หมูเเดงซี่โครง", "en": "Noodles, dumplings, barbecued pork" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส ผัดผักกับปลา", "en": "Sour soup with vegetables" },
+      { "th": "ผัดผัก", "en": "Fried fish" }
+    ],
+    "supper": [
+      { "th": "ผัดไทย", "en": "Pad Thai" }
+    ]
   },
   "2026-01-14": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ปลาหมึกยัดไส้ พริกเเกง", "en": "Braised Fish Man in Red Gravy" }
+    ],
+    "lunch": [
+      { "th": "ซี่โครงยำขนมจีน หมูเเดงต้ม ผักสดติบาจี", "en": "Braised Pork Spare Ribs with eggplant" },
+      { "th": "หมูผัดกับซีอิ๊วขาว", "en": "รอง Fried Tilapia with Sweet Chili Sauce" }
+    ],
+    "dinner": [
+      { "th": "เเกงจืด ซี่โครงยำขนมจีนต้มเเกง", "en": "Mixed Vegetable Stew" },
+      { "th": "ปลาทอดซอสพริก", "en": "Stir Fried Pork Spareribs with Red Curry" }
+    ],
+    "supper": [
+      { "th": "เส่นบะหมี่", "en": "Stir fried Noodles with black soy sauce" }
+    ]
   },
   "2026-01-15": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "เส่นเวอร์มิเชลลี", "en": "Pad Thai" }
+    ],
+    "lunch": [
+      { "th": "ซุปเต้าหู้เเดงกับเห็ด พริกเเกงหมูบาร์บีคิว", "en": "Yellow red tofu with red snow mushroom" },
+      { "th": "ปลาทอดพริกมะนาวซอส", "en": "Stir fried pork with fish sauce" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส ไก่ผัดผัก เเละข้าวผัดต้มยำ", "en": "Chicken omelette with herbs" },
+      { "th": "ข้าวผัดต้มยำ", "en": "Spicy stir fried beef" }
+    ],
+    "supper": [
+      { "th": "ต้มยำไก่เเดง", "en": "Stew pork in brown soup" },
+      { "th": "ไก่ย่าง", "en": "Grilled chicken" }
+    ]
   },
   "2026-01-16": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวผัดใส่หมู", "en": "Pork Lard Soy Fried Rice" }
+    ],
+    "lunch": [
+      { "th": "ข้าวผัดกระเทียมหมูสามชั้น เเละหน้ากระดองหมูตะวันตก", "en": "Rice mixed with Shrimp Paste and sweet pork" },
+      { "th": "เเละหน้ากระดองหมูตะวันตก", "en": "Westernstyle ribs" }
+    ],
+    "dinner": [
+      { "th": "ซุปหน่อไม้กับหัวไชเท้า ปลาทอดซอสมันเเละซอสพริกหยวก", "en": "Pickled Lettuce Soup" },
+      { "th": "ปลาทอดซอสมันเเละซอสพริกหยวก", "en": "stir-fried fish chilli dip" }
+    ],
+    "supper": [
+      { "th": "ข้าวผัดไข่ ปลาทอด ยำผักสดใต้", "en": "Boiled Rice" },
+      { "th": "ผักสด ไข่ต้ม เเกงจืด", "en": "Fried fish, Stir fried vegetables" }
+    ]
   },
   "2026-01-17": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "บะหมี่", "en": "Stir Fried instant noodles" }
+    ],
+    "lunch": [
+      { "th": "หมูยำข้าวฟ่าง", "en": "Braised Pork Rice" }
+    ],
+    "dinner": [
+      { "th": "เเกงเหลืองกับผักกับเห็ดเเละต้นหอม", "en": "Yellow curry with bamboo" },
+      { "th": "ไข่เจียว", "en": "Omelete" }
+    ],
+    "supper": [
+      { "th": "ข้าวผัดไข่ เเกงจืด พริกเเกง", "en": "Egg Fried Rice" },
+      { "th": "ข้าวผัดไข่ เเกงจืด", "en": "Fried eggs, Clear soup" }
+    ]
   },
   "2026-01-18": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวต้มหมูสับ", "en": "Fried rice with minced pork" }
+    ],
+    "lunch": [
+      { "th": "ซุปใสตับเเละปลาหมึก ซี่โครงทอด", "en": "Pork soup" },
+      { "th": "ปลาทอด ข้าวผัดไข่", "en": "Fried fish, Stir Fried morning glory" }
+    ],
+    "dinner": [
+      { "th": "ไก่ผัดถั่วลันเตา เเละตับหมูผัดไข่ เเกงจืดผักกับฟักทอง", "en": "Chicken and peanut with preserved lime soup" },
+      { "th": "เเกงจืดผักกับฟักทอง", "en": "Fried Pork organs with egg, Stir fried chili & lime" }
+    ],
+    "supper": [
+      { "th": "ซุปใสผักกับฟักทองเเละเต้าหู้", "en": "Clear soup with minced pork and tofu" },
+      { "th": "หมูทอดเเละข้าวหมู", "en": "Spicy stir fried bamboo shoot" }
+    ]
   },
   "2026-01-19": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวเหนียว ข้าวเปล่า ปลาทอดข้าวเหนียว", "en": "Butterfried, Spicy salad fish, Fried egg" }
+    ],
+    "lunch": [
+      { "th": "ซุปใส ผัดผักไทยกับไข่เจียว", "en": "Vegan Thai Vegetable and Fried tofu" },
+      { "th": "ปลาทอดซอสมะขาม", "en": "Stir fried morning glory" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส ปลาทอดซอสมะขาม", "en": "Clear soup with Steamed Thai Seabass with Lime and Chillies" },
+      { "th": "ปลาทอดซอสมะขาม", "en": "Stir fried cabbage" }
+    ],
+    "supper": [
+      { "th": "ต้มยำปลาอินทรีย์ หมูผัดพริกแกง", "en": "Tom yum fish" },
+      { "th": "หมูผัดพริกแกง", "en": "Braised Pork with Fish Sauce" }
+    ]
   },
   "2026-01-20": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวผัดกระเทียมพริกไทย", "en": "Thai Spicy Shrimp Paste Fried Rice" }
+    ],
+    "lunch": [
+      { "th": "หมูต้มยำขนมจีน", "en": "Noodles pork" }
+    ],
+    "dinner": [
+      { "th": "ซุปกับเต้าหู้เเดง หมูผัดพริกแกง", "en": "Grilled Pork Curry with sour leaves" },
+      { "th": "ปลาทอดซอสพริก", "en": "Braised Pork with Fish Sauce" }
+    ],
+    "supper": [
+      { "th": "ซุปปลา เเละปลาสลิดทอด", "en": "Sour soup" },
+      { "th": "ยำผักสดใต้ หัวไชเท้าต้มเเกง", "en": "Fried salted fish, Omelete" }
+    ]
   },
   "2026-01-21": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "บะหมี่", "en": "Stir fried noodles" }
+    ],
+    "lunch": [
+      { "th": "ข้าวผัดหมูกับผักเเละเห็ดหิมะขาว", "en": "Chicken-Rice and Winter Melon Soup" }
+    ],
+    "dinner": [
+      { "th": "ซุปหน่อไม้ ปลาทอดราดพริก", "en": "Sukiyaki" },
+      { "th": "ปลาทอดราดพริก", "en": "Spicy stir fried fish with chilli" }
+    ],
+    "supper": [
+      { "th": "ต้มยำเเละซี่โครงหมู ปลาทอด", "en": "Tom Yum Joe's pork" },
+      { "th": "ปลาทอด", "en": "fried fish" }
+    ]
   },
   "2026-01-22": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ซุปหมูซี่โครง", "en": "Spaghetti pork sauce" }
+    ],
+    "lunch": [
+      { "th": "ซุปใสกับเต้าหู้เเละผักตบชวา ผัดพริกแกงใส่หมูซี่โครง", "en": "Clear soup with tofu and minced pork" },
+      { "th": "ปลาทอดซอสน้ำปลา", "en": "Spicy pork ribs, Fried fish with fish sauce" }
+    ],
+    "dinner": [
+      { "th": "ซุปใสกับผักเเละตับเเละปลาสลิด", "en": "Pickled lettuce soup with spare ribs" },
+      { "th": "หมูสามชั้นผัดซีอิ๊ว เเละกล้วยเเขกทอด", "en": "Roasted Banana with pork, Fried Bananas" }
+    ],
+    "supper": [
+      { "th": "ผัดผักรวม ซี่โครงทอด", "en": "Mixed Vegetable Stew" },
+      { "th": "ปลาทอดพริกเหลือง", "en": "Spicy stir fried yellow curry with minced pork" }
+    ]
   },
   "2026-01-23": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวเหนียวซุปปลาหยวก", "en": "Fried rice with minced pork" }
+    ],
+    "lunch": [
+      { "th": "ซุปใส ปลาทอดสซีอิ๊วขาว", "en": "Hot and sour Thai traditional soup" },
+      { "th": "ปลาทอดสซีอิ๊วขาว", "en": "Stir fried pork with Holy basil" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส หมูทอดเเละซี่โครงหมูซอสหม่าล่า", "en": "Clear soup with cucumber Stir fried crispy fish" },
+      { "th": "หมูทอดเเละซี่โครงหมูซอสหม่าล่า", "en": "Fried crispy fish with chili" }
+    ],
+    "supper": [
+      { "th": "ซุปหน่อไม้ ไก่ทอด", "en": "Thai Fish Organs Sour Soup" },
+      { "th": "ปลาทอด", "en": "Fried pork" }
+    ]
   },
   "2026-01-24": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวหมู และแกงจืดผักกับเต้าหู้", "en": "Pad Kee Premium Pork" }
+    ],
+    "lunch": [
+      { "th": "หมูทอดกระเทียมพริกไทย ปลาทอดราดซอส", "en": "Stir fried pork with crispy pork" },
+      { "th": "ปลาทอดราดซอส", "en": "Stir fried vegetables" }
+    ],
+    "dinner": [
+      { "th": "ซุปปลา หมูดิบซอสเปรี้ยวหวาน", "en": "Tom Yum Pork" },
+      { "th": "ปลาทอด", "en": "Fried fish" }
+    ],
+    "supper": [
+      { "th": "ซุปหมูกระดูก", "en": "Fried pork with garlic and pepper" }
+    ]
   },
   "2026-01-25": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวผัดไส้กรอกจีน", "en": "Crab and Chinese Sausage Fried Rice" }
+    ],
+    "lunch": [
+      { "th": "ซุปใสกับผักและเห็ดหูหนู", "en": "Clear soup with tofu and vegetables" },
+      { "th": "ปลาหมึกยัดไส้และผัดผักกะหล่ำปลี", "en": "Deep fried bamboo shoot with pork, stir fried vegetables" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส เห็ดน้ำและหน่อไม้", "en": "Egg Soup with Tom Yum and Dill Soup" },
+      { "th": "หมูผัดกระเทียม", "en": "stir-fried Radishes with Chinese Celery" }
+    ],
+    "supper": [
+      { "th": "ซุปใส ไข่เจียว", "en": "Sour soup" },
+      { "th": "ผัดผัก", "en": "Steamed eggs" }
+    ]
   },
   "2026-01-26": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ผัดไทยกุ้งสด", "en": "Pad Thai with shrimp" }
+    ],
+    "lunch": [
+      { "th": "ซุปใสกับถั่วฝักยาว", "en": "Chicken in coconut milk frot" },
+      { "th": "ไก่ผัดซอสปลา และแกงกะหรี่พริกแกง", "en": "Steamed Pulb with Curry Paste, Stir fried pork with cucumber" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส ไก่ย่าง", "en": "Green curry with fish balls" },
+      { "th": "ข้าวผัดไข่", "en": "Fried eggs in tamarind sauce" }
+    ],
+    "supper": [
+      { "th": "ซุปใส ผัดผักซี่โครงหมู", "en": "Clear soup" },
+      { "th": "ผัดผักซี่โครงหมู", "en": "Stir fry spicy catfish" }
+    ]
   },
   "2026-01-27": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวต้มปลา", "en": "Porridge pork" }
+    ],
+    "lunch": [
+      { "th": "ซุปใส หมูทอดกระเทียม", "en": "Clear soup with tofu and pork" },
+      { "th": "ปลาทอดน้ำปลา", "en": "Steamed chicken in thai chilie" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส หมูสามชั้นไก่ทอดพริก", "en": "Clear soup with tofu and pork" },
+      { "th": "ข้าวผัด เมี่ยงปลาร้าใต้", "en": "Steamed chicken with thai chili sauce" }
+    ],
+    "supper": [
+      { "th": "ซุปผักและใยผัก ข้าวผัดซีอิ๊ว", "en": "Pad Kra Prao minced pork with tofu" },
+      { "th": "ข้าวผัดซีอิ๊ว", "en": "Clear soup" }
+    ]
   },
   "2026-01-28": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวผัด", "en": "Fried pork" }
+    ],
+    "lunch": [
+      { "th": "ข้าวผัดกะเพราใส่หมูสับ เมี่ยงปลาร้าใต้ สะเต๊ะ", "en": "Stir fried Minced Pork with Basil" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส ไก่ย่าง ปลาทอดซอสมะเขือเทศ", "en": "Biryani chicken" },
+      { "th": "ปลาทอดซอสมะเขือเทศ", "en": "Fried Mackerel with Peanut Sauce" }
+    ],
+    "supper": [
+      { "th": "ซุปหน่อไม้ หมูทอด", "en": "Stir fried fish" },
+      { "th": "หมูทอด", "en": "macaroni" }
+    ]
   },
   "2026-01-29": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวเหนียวต้ม", "en": "Tom Yum shrimp fried rice" }
+    ],
+    "lunch": [
+      { "th": "ซุปใสกับเต้าหู้และผักตบชวา ปลาทอดน้ำปลาและซอสกระเทียม", "en": "Clear soup with vegetables and garlic" },
+      { "th": "ปลาทอดน้ำปลาและซอสกระเทียม", "en": "Fried fish with fish sauce" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส ผัดผัก ปลาทอด", "en": "Sour soup with vegetables" },
+      { "th": "ผัดผัก ปลาทอด", "en": "Fried pork pancake" }
+    ],
+    "supper": [
+      { "th": "ซุปหัวไชเท้า ข้าวผัดซีอิ๊ว", "en": "White Radish with Pork Soup" },
+      { "th": "ข้าวผัดซีอิ๊ว", "en": "Pad Kra Prao" }
+    ]
   },
   "2026-01-30": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวผัดผัก", "en": "Wokken Styled Fried Noodles" }
+    ],
+    "lunch": [
+      { "th": "ซุปหัวไชเท้า ต้มยำซี่โครง ไก่ย่าง", "en": "Tom Yum Joe's pork" },
+      { "th": "ปลาทอด ผัดผัก", "en": "Grilled chicken, Spicy fried fish, Fried vegetables" }
+    ],
+    "dinner": [
+      { "th": "ซุปใส ข้าวผัดซอสแกงกะหรี่ ไก่ทอดแดดเดียว", "en": "Bamboo Shoot & Chicken Red Curry" },
+      { "th": "ข้าวผัดซอสแกงกะหรี่ ไก่ทอดแดดเดียว", "en": "Fried noodles dish" }
+    ],
+    "supper": [
+      { "th": "ต้มยำปลาอินทรีย์ ซี่โครงหมูทอดกระเทียม", "en": "Tom yum fish" },
+      { "th": "ซี่โครงหมูทอดกระเทียม", "en": "Stir fried pork with garlic" }
+    ]
   },
   "2026-01-31": {
-    "breakfast": [],
-    "lunch": [],
-    "dinner": [],
-    "supper": []
+    "breakfast": [
+      { "th": "ข้าวเหนียวหมูทอดหยวก", "en": "Fried pork, sticky rice" }
+    ],
+    "lunch": [
+      { "th": "ซุปผักกับซี่โครงต้มหม่าล่าสไตล์ไต้หวัน", "en": "Taiwan Spicy and sour fried pork" },
+      { "th": "ปลาทอด ผัดผักสลัด", "en": "Thai Pork Salad with Roasted Thai Fish with Lettuce, Fried fish, stir fried eggplant" }
+    ],
+    "dinner": [
+      { "th": "ซุปไก่ต้มยำ ปลาทอดราดซอสกระเทียม", "en": "Spicy Thai Pork Broth" },
+      { "th": "ปลาทอดราดซอสกระเทียม", "en": "Fried fish with garlic" }
+    ],
+    "supper": [
+      { "th": "ไก่ผัดข้าว", "en": "chicken with rice" }
+    ]
   }
 }
